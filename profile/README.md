@@ -1,4 +1,4 @@
-![MONOLOGIC Banner]()
+![MONOLOGIC Banner](https://github.com/MonologicRu/.github/blob/main/profile/monologic_banner_wide_2.jpg)
 
 # Welcome to the MONOLOGIC Open Source Community!
 
